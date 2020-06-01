@@ -1,0 +1,60 @@
+﻿  stdafx.cpp
+  UniversalDlg.cpp
+  TemplateSize.cpp
+  MyImage_.cpp
+  MainFrm.cpp
+  ImgOverlay.cpp
+  Image_ProcessingView.cpp
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(702): warning C4244: “=”: 从“long”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(703): warning C4244: “=”: 从“long”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(704): warning C4244: “=”: 从“long”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(1460): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(1508): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(1699): warning C4244: “初始化”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(1860): warning C4305: “初始化”: 从“double”到“float”截断
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(1861): warning C4305: “初始化”: 从“double”到“float”截断
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2033): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2034): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2035): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2042): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2043): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2044): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2089): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2275): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2383): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2384): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2385): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2392): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2406): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2432): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2434): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2435): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2439): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2440): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2441): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2442): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2450): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2532): warning C4244: “初始化”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2621): warning C4244: “初始化”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2723): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2724): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2725): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2813): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2814): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2815): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2895): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2896): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2897): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2978): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2979): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(2980): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\image_processingview.cpp(3051): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Image_ProcessingDoc.cpp
+  Image_Processing.cpp
+  HistogramImg.cpp
+f:\c++2010\图像处理与识别（20171009）\image_processing(zyx)\image_processing\histogramimg.cpp(108): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  GrayScale.cpp
+  Dgradation.cpp
+  正在生成代码...
+  Image_Processing.vcxproj -> F:\C++2010\图像处理与识别（20171009）\Image_Processing(zyx)\Debug\Image_Processing.exe
+  Image_Processing.vcxproj -> F:\C++2010\图像处理与识别（20171009）\Image_Processing(zyx)\Debug\Image_Processing.pdb (Full PDB)
